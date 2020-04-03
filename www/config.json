@@ -11,8 +11,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "presets" : {"url": "http://alunosead.net.br/login/index.php", "username": ""},
-	"siteurl": "http://alunosead.net.br",
+    "presets" : {"url": "http://webaula.futurainfo.net:82/moodle/", "username": ""},
+	"siteurl": "http://webaula.futurainfo.net:82/moodle/",
     "skipssoconfirmation": "false",
     
 }
